@@ -105,3 +105,10 @@ azure-attack-path-cloud-security-investigation/
 ## Status
 
 Completed as part of my Cloud Security and SOC Analyst learning portfolio.
+---
+
+## What This Lab Demonstrates
+
+This lab demonstrates my ability to analyse a cloud security attack path, connect multiple findings together, assess business risk, and document clear remediation actions.
+
+The focus is not only on identifying one misconfiguration, but on understanding how public exposure, vulnerabilities, identity permissions, and sensitive data access can combine into a realistic cloud security risk.
