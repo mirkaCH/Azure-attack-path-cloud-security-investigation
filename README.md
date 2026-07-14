@@ -105,7 +105,7 @@ azure-attack-path-cloud-security-investigation/
 ## Status
 
   Completed as part of my Cloud Security and SOC Analyst learning portfolio.
----
+
 
 ## What This Lab Demonstrates
 
